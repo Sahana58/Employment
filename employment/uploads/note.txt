@@ -1,0 +1,13 @@
+sql
+
+username: sa
+password:sqlPwd@12#
+
+CF
+http://127.0.0.1:8500/CFIDE/administrator/
+username: admin
+password: admin
+
+coldfusion :
+
+https://helpx.adobe.com/
